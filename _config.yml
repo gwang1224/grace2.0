@@ -1,9 +1,9 @@
-title: Nighthawk-Pages
-description: "August 2023 to June 2024"
-owner_name: Tirth Thakkar
-github_username: Tirth-Thakkar
-github_repo: "Nighthawk-Pages"
-baseurl: "/Nighthawk-Pages"
+title: Grace2.0
+description: "Grace's CSA Blog"
+owner_name: Grace Wang
+github_username: gwang1224
+github_repo: "grace2.0"
+baseurl: "/grace2.0"
 remote_theme: jekyll/minima
 minima:
   social_links:
