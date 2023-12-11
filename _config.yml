@@ -5,6 +5,7 @@ github_username: gwang1224
 github_repo: "grace2.0"
 baseurl: "/grace2.0"
 remote_theme: jekyll/minima
+repository: gwang1224/grace2.0
 minima:
   social_links:
     - { platform: github, user_url: "https://github.com/nighthawkcoders"}
